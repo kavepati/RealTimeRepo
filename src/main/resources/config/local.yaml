@@ -1,0 +1,6 @@
+http:
+   Listener:
+     host: "localhost"
+     port: "9081"
+     path: "/getrouters"
+   
